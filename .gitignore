@@ -21,6 +21,7 @@ local.properties
 
 # Gradle files
 .gradle/
+build/
 
 # Android Studio files
 .idea/
